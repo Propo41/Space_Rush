@@ -4,6 +4,8 @@ A simple Arcade game where players are required to stay alive and score points f
 # Objective
 To learn the basics of pygame and get familiar with python.
 
+Gameplay: https://youtu.be/HqtwOKQnSnE
+
 # How to play [requires python interpreter installed]
 1. Clone the repository
 2. Extract the zip file
